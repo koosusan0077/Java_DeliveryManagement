@@ -1,0 +1,5 @@
+B101:black Skirt:29.99:S
+T303:pink dress:199.99:M
+B202:Grey Skirt:49.99:S
+B303:White Tee:49.99:L
+B404:Coco Pants:129.99:S
